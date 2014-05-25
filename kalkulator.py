@@ -1,6 +1,6 @@
 
-def suma(a, b):
-    return a + b
+def suma(liczba1, liczba2):
+    return liczba1 + liczba2
 
 liczba1 = int(input())
 liczba2 = int(input())
